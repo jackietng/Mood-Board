@@ -1,5 +1,14 @@
 # Mini-Project: Mood Board
 
+## Description
+This dynamic mood board appliation helps users compile images using the image URL and allows users to add text of their choice. Once images and texts have been added, users may drag the content as they please to place their inspirations as needed. 
+
+## Table of Contents
+  * [Description](#description)
+  * [User Story](#user-story)
+  * [Specifications](#specifications)
+
+
 ## User Story
 
 The completed application should meet the following criteria:
