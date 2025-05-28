@@ -235,5 +235,4 @@ function placeElementClickHandler(event) {
 // Load existing data from local storage on page load
 window.onload = () => {
   loadFromLocalStorage();
-  enableDragAndDrop();
 };
