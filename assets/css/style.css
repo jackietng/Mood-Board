@@ -1,5 +1,5 @@
 :root {
-  --content-height: 500px;
+  --content-height: 800px;
 }
 
 body {
@@ -46,7 +46,7 @@ button {
   overflow: hidden;
 }
 
-#mood-board img, #mood-board .text-item, .draggable {
+#mood-board img, #mood-board .div, .draggable {
   position: absolute;
   max-width: 300px;
   max-height: 300px;
