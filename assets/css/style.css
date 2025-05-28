@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: sans-serif;
   background-color: #f0f0f0;
   text-align: center;
 }
@@ -43,15 +43,15 @@ button {
   height: var(--content-height);
   border: 2px dashed grey;
   position: relative;
-  overflow: auto;
+  overflow: hidden;
 }
 
 #mood-board img, #mood-board .text-item, .draggable {
   position: absolute;
-  max-width: 200px;
-  max-height: 200px;
-  cursor: pointer;
-  pointer-events: none;
+  max-width: 300px;
+  max-height: 300px;
+  cursor: grab;
+  pointer-events: auto;
   font-size: 2rem;
 }
 
